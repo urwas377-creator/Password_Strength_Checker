@@ -1,4 +1,4 @@
-# Password_Strength_password
+# Password_Strength_Checker
 
 This is a simple mini python project.
 
